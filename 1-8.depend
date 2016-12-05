@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1480533650 source:d:\1-8\ckut.cpp
+	"CKut.h"
+
+1480533667 d:\1-8\ckut.h
+
+1480533848 source:d:\1-8\compare.cpp
+	<Cmath>
+	"CKut.h"
+	"Compare.h"
+
+1480533705 d:\1-8\compare.h
+	"CKut.h"
+
+1480934685 source:d:\1-8\main.cpp
+	<iostream>
+	"CKut.h"
+
