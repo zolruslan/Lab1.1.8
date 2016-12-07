@@ -1,4 +1,4 @@
-#include <Cmath>
+#include <cmath>
 #include "CKut.h"
 #include "Compare.h"
 
